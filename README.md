@@ -1,7 +1,7 @@
-# 🛍️ TEMU Clone | Modern E-Commerce Platform
 [<img src="assets/thumbnail.jpg" target="_blank">](https://www.youtube.com/watch?v=-_-kvPiMybw)
 
-A full-stack e-commerce platform built with NextJS 15 and React 19, inspired by TEMU's design. This project demonstrates modern web development practices and an end-to-end e-commerce experience.
+A full-stack e-commerce platform built with NextJS 15 and React 19. 
+This project modern web development practices and an end-to-end e-commerce experience.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Next.js](https://img.shields.io/badge/Next.js%2015-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -87,10 +87,6 @@ Visit `http://localhost:3000` to see your application running.
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 🙏 Acknowledgments
-- Design inspired by TEMU
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Prisma Documentation](https://www.prisma.io/docs)
 - [TailwindCSS Documentation](https://tailwindcss.com/docs)
-
-## 📝 Notes
-This is a project built for educational purposes. It's not affiliated with TEMU.
